@@ -1,0 +1,2993 @@
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.compevo.com
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : epel-release-7-9.noarch                                      1/1 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.compevo.com
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : epel-release-7-9.noarch                                      1/1 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.compevo.com
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : epel-release-7-9.noarch                                      1/1 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+ * base: mirror.compevo.com
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : epel-release-7-9.noarch                                      1/1  Updating   : epel-release-7-11.noarch                                     1/2 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+ 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+Loaded plugins: fastestmirror
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Loading mirror speeds from cached hostfile
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+ * base: mirror.compevo.com
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+  Installing : epel-release-7-9.noarch                                      1/1Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+ 
+  Verifying  : epel-release-7-9.noarch                                      1/1  Updating   : epel-release-7-11.noarch                                     1/2 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+ 
+  Cleanup    : epel-release-7-9.noarch                                      2/2Loaded plugins: fastestmirror
+ 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Loading mirror speeds from cached hostfile
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+ * base: mirror.compevo.com
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Updating   : epel-release-7-11.noarch                                     1/2  Installing : epel-release-7-9.noarch                                      1/1 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+ 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+Loaded plugins: fastestmirror
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Loading mirror speeds from cached hostfile
+Loaded plugins: fastestmirror
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+Loading mirror speeds from cached hostfile
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+Downloading packages:
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+--------------------------------------------------------------------------------
+Total                                               10 MB/s |  12 MB  00:01     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+ * base: mirror.compevo.com
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29  Installing : epel-release-7-9.noarch                                      1/1  Updating   : epel-release-7-11.noarch                                     1/2 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+ 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29Loaded plugins: fastestmirror
+ 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+ 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29Loading mirror speeds from cached hostfile
+ 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29Loaded plugins: fastestmirror
+ 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+ 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+ 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+ 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29Loading mirror speeds from cached hostfile
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+ 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+Downloading packages:
+ 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29--------------------------------------------------------------------------------
+Total                                               28 MB/s |  12 MB  00:00     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+ 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Updating   : epel-release-7-11.noarch                                     1/2 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+ 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 * base: mirror.compevo.com
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+ 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : epel-release-7-9.noarch                                      1/1 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+ 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29Loaded plugins: fastestmirror
+ 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29Loading mirror speeds from cached hostfile
+ 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+Downloading packages:
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+--------------------------------------------------------------------------------
+Total                                               10 MB/s |  12 MB  00:01     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+ 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29  Updating   : epel-release-7-11.noarch                                     1/2 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+ 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29 * base: mirror.compevo.com
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+ 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version         Repository        Size
+================================================================================
+Installing:
+ epel-release           noarch           7-9             extras            14 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 14 k
+Installed size: 24 k
+Downloading packages:
+Public key for epel-release-7-9.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : epel-release-7-9.noarch                                      1/1 
+  Verifying  : epel-release-7-9.noarch                                      1/1 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+
+Installed:
+  epel-release.noarch 0:7-9                                                     
+
+Complete!
+ 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29Loaded plugins: fastestmirror
+ 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29Loading mirror speeds from cached hostfile
+ 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+Downloading packages:
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+--------------------------------------------------------------------------------
+Total                                              8.9 MB/s |  12 MB  00:01     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29  Updating   : epel-release-7-11.noarch                                     1/2 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+ 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+ 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+ 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+ 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29Downloading packages:
+ 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29--------------------------------------------------------------------------------
+Total                                               22 MB/s |  12 MB  00:00     
+ 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29Running transaction check
+Running transaction test
+ 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29Transaction test succeeded
+Running transaction
+ 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+ 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+ 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Updating   : epel-release-7-11.noarch                                     1/2 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+ 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+Downloading packages:
+--------------------------------------------------------------------------------
+Total                                               10 MB/s |  12 MB  00:01     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+ 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29Resolving Dependencies
+--> Running transaction check
+---> Package epel-release.noarch 0:7-9 will be updated
+---> Package epel-release.noarch 0:7-11 will be an update
+--> Finished Dependency Resolution
+ 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29
+Dependencies Resolved
+
+================================================================================
+ Package                Arch             Version           Repository      Size
+================================================================================
+Updating:
+ epel-release           noarch           7-11              epel            15 k
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package
+
+Total download size: 15 k
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+Public key for epel-release-7-11.noarch.rpm is not installed
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Updating   : epel-release-7-11.noarch                                     1/2 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Cleanup    : epel-release-7-9.noarch                                      2/2 
+  Verifying  : epel-release-7-11.noarch                                     1/2 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Verifying  : epel-release-7-9.noarch                                      2/2 
+
+Updated:
+  epel-release.noarch 0:7-11                                                    
+
+Complete!
+ 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+Downloading packages:
+--------------------------------------------------------------------------------
+Total                                              9.6 MB/s |  12 MB  00:01     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package salt-minion.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-minion-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-minion                          noarch  2015.5.10-2.el7    epel      26 k
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 12 M
+Installed size: 52 M
+Downloading packages:
+--------------------------------------------------------------------------------
+Total                                               10 MB/s |  12 MB  00:01     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           2/29 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          3/29 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               4/29 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   5/29 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              6/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              7/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          8/29 
+  Installing : python-backports-1.0-8.el7.x86_64                           9/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   10/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      11/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             12/29 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                13/29 
+  Installing : python-babel-0.9.6-8.el7.noarch                            14/29 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               19/29 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 20/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             21/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           22/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                23/29 
+  Installing : which-2.20-7.el7.x86_64                                    24/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                      25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-minion-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              10/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                11/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              12/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      15/29 
+  Verifying  : salt-minion-2015.5.10-2.el7.noarch                         16/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          17/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             18/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              19/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         20/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                21/29 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  27/29 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29 
+
+Installed:
+  salt-minion.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: centos.mirrors.tds.net
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package salt-master.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: salt = 2015.5.10-2.el7 for package: salt-master-2015.5.10-2.el7.noarch
+--> Processing Dependency: systemd-python for package: salt-master-2015.5.10-2.el7.noarch
+--> Running transaction check
+---> Package salt.noarch 0:2015.5.10-2.el7 will be installed
+--> Processing Dependency: PyYAML for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: m2crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: pciutils for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-crypto for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-jinja2 for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-msgpack for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-requests for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: python-zmq for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: which for package: salt-2015.5.10-2.el7.noarch
+--> Processing Dependency: yum-utils for package: salt-2015.5.10-2.el7.noarch
+---> Package systemd-python.x86_64 0:219-42.el7_4.10 will be installed
+--> Running transaction check
+---> Package PyYAML.x86_64 0:3.10-11.el7 will be installed
+--> Processing Dependency: libyaml-0.so.2()(64bit) for package: PyYAML-3.10-11.el7.x86_64
+---> Package m2crypto.x86_64 0:0.21.1-17.el7 will be installed
+---> Package pciutils.x86_64 0:3.5.1-2.el7 will be installed
+--> Processing Dependency: pciutils-libs = 3.5.1-2.el7 for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.5)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.3)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.1)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3(LIBPCI_3.0)(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: hwdata for package: pciutils-3.5.1-2.el7.x86_64
+--> Processing Dependency: libpci.so.3()(64bit) for package: pciutils-3.5.1-2.el7.x86_64
+---> Package python-jinja2.noarch 0:2.7.2-2.el7 will be installed
+--> Processing Dependency: python-babel >= 0.8 for package: python-jinja2-2.7.2-2.el7.noarch
+--> Processing Dependency: python-markupsafe for package: python-jinja2-2.7.2-2.el7.noarch
+---> Package python-requests.noarch 0:2.6.0-1.el7_1 will be installed
+--> Processing Dependency: python-urllib3 >= 1.10.2-1 for package: python-requests-2.6.0-1.el7_1.noarch
+--> Processing Dependency: python-chardet >= 2.2.1-1 for package: python-requests-2.6.0-1.el7_1.noarch
+---> Package python-zmq.x86_64 0:14.3.1-1.el7 will be installed
+--> Processing Dependency: libzmq.so.3()(64bit) for package: python-zmq-14.3.1-1.el7.x86_64
+---> Package python2-crypto.x86_64 0:2.6.1-15.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-15.el7.x86_64
+---> Package python2-msgpack.x86_64 0:0.5.1-1.el7 will be installed
+---> Package which.x86_64 0:2.20-7.el7 will be installed
+---> Package yum-utils.noarch 0:1.1.31-42.el7 will be installed
+--> Processing Dependency: python-kitchen for package: yum-utils-1.1.31-42.el7.noarch
+--> Processing Dependency: libxml2-python for package: yum-utils-1.1.31-42.el7.noarch
+--> Running transaction check
+---> Package hwdata.x86_64 0:0.252-8.6.el7 will be installed
+---> Package libtomcrypt.x86_64 0:1.17-26.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-26.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-26.el7.x86_64
+---> Package libxml2-python.x86_64 0:2.9.1-6.el7_2.3 will be installed
+---> Package libyaml.x86_64 0:0.1.4-11.el7_0 will be installed
+---> Package pciutils-libs.x86_64 0:3.5.1-2.el7 will be installed
+---> Package python-babel.noarch 0:0.9.6-8.el7 will be installed
+---> Package python-chardet.noarch 0:2.2.1-1.el7_1 will be installed
+---> Package python-kitchen.noarch 0:1.1.1-5.el7 will be installed
+---> Package python-markupsafe.x86_64 0:0.11-10.el7 will be installed
+---> Package python-urllib3.noarch 0:1.10.2-3.el7 will be installed
+--> Processing Dependency: python-six for package: python-urllib3-1.10.2-3.el7.noarch
+--> Processing Dependency: python-backports-ssl_match_hostname for package: python-urllib3-1.10.2-3.el7.noarch
+---> Package zeromq3.x86_64 0:3.2.5-1.el7 will be installed
+--> Processing Dependency: libpgm-5.2.so.0()(64bit) for package: zeromq3-3.2.5-1.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-6.el7 will be installed
+---> Package openpgm.x86_64 0:5.2.122-2.el7 will be installed
+---> Package python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7 will be installed
+--> Processing Dependency: python-backports for package: python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch
+---> Package python-six.noarch 0:1.9.0-2.el7 will be installed
+--> Running transaction check
+---> Package python-backports.x86_64 0:1.0-8.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                              Arch    Version            Repository
+                                                                           Size
+================================================================================
+Installing:
+ salt-master                          noarch  2015.5.10-2.el7    epel     1.0 M
+Installing for dependencies:
+ PyYAML                               x86_64  3.10-11.el7        base     153 k
+ hwdata                               x86_64  0.252-8.6.el7      base     2.2 M
+ libtomcrypt                          x86_64  1.17-26.el7        extras   224 k
+ libtommath                           x86_64  0.42.0-6.el7       extras    36 k
+ libxml2-python                       x86_64  2.9.1-6.el7_2.3    base     247 k
+ libyaml                              x86_64  0.1.4-11.el7_0     base      55 k
+ m2crypto                             x86_64  0.21.1-17.el7      base     429 k
+ openpgm                              x86_64  5.2.122-2.el7      epel     171 k
+ pciutils                             x86_64  3.5.1-2.el7        base      93 k
+ pciutils-libs                        x86_64  3.5.1-2.el7        base      46 k
+ python-babel                         noarch  0.9.6-8.el7        base     1.4 M
+ python-backports                     x86_64  1.0-8.el7          base     5.8 k
+ python-backports-ssl_match_hostname  noarch  3.4.0.2-4.el7      base      12 k
+ python-chardet                       noarch  2.2.1-1.el7_1      base     227 k
+ python-jinja2                        noarch  2.7.2-2.el7        base     515 k
+ python-kitchen                       noarch  1.1.1-5.el7        base     267 k
+ python-markupsafe                    x86_64  0.11-10.el7        base      25 k
+ python-requests                      noarch  2.6.0-1.el7_1      base      94 k
+ python-six                           noarch  1.9.0-2.el7        base      29 k
+ python-urllib3                       noarch  1.10.2-3.el7       base     101 k
+ python-zmq                           x86_64  14.3.1-1.el7       epel     468 k
+ python2-crypto                       x86_64  2.6.1-15.el7       extras   477 k
+ python2-msgpack                      x86_64  0.5.1-1.el7        epel      93 k
+ salt                                 noarch  2015.5.10-2.el7    epel     4.1 M
+ systemd-python                       x86_64  219-42.el7_4.10    updates  118 k
+ which                                x86_64  2.20-7.el7         base      41 k
+ yum-utils                            noarch  1.1.31-42.el7      base     117 k
+ zeromq3                              x86_64  3.2.5-1.el7        epel     344 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+28 Dependent packages)
+
+Total download size: 13 M
+Installed size: 53 M
+Downloading packages:
+--------------------------------------------------------------------------------
+Total                                               14 MB/s |  13 MB  00:00     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : python-chardet-2.2.1-1.el7_1.noarch                         1/29 
+  Installing : systemd-python-219-42.el7_4.10.x86_64                       2/29 
+  Installing : python-kitchen-1.1.1-5.el7.noarch                           3/29 
+  Installing : python2-msgpack-0.5.1-1.el7.x86_64                          4/29 
+  Installing : libyaml-0.1.4-11.el7_0.x86_64                               5/29 
+  Installing : PyYAML-3.10-11.el7.x86_64                                   6/29 
+  Installing : libtommath-0.42.0-6.el7.x86_64                              7/29 
+  Installing : libtomcrypt-1.17-26.el7.x86_64                              8/29 
+  Installing : python2-crypto-2.6.1-15.el7.x86_64                          9/29 
+  Installing : python-backports-1.0-8.el7.x86_64                          10/29 
+  Installing : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch   11/29 
+  Installing : libxml2-python-2.9.1-6.el7_2.3.x86_64                      12/29 
+  Installing : yum-utils-1.1.31-42.el7.noarch                             13/29 
+  Installing : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Installing : m2crypto-0.21.1-17.el7.x86_64                              15/29 
+  Installing : python-six-1.9.0-2.el7.noarch                              16/29 
+  Installing : python-urllib3-1.10.2-3.el7.noarch                         17/29 
+  Installing : python-requests-2.6.0-1.el7_1.noarch                       18/29 
+  Installing : python-babel-0.9.6-8.el7.noarch                            19/29 
+  Installing : openpgm-5.2.122-2.el7.x86_64                               20/29 
+  Installing : zeromq3-3.2.5-1.el7.x86_64                                 21/29 
+  Installing : python-zmq-14.3.1-1.el7.x86_64                             22/29 
+  Installing : pciutils-libs-3.5.1-2.el7.x86_64                           23/29 
+  Installing : pciutils-3.5.1-2.el7.x86_64                                24/29 
+  Installing : which-2.20-7.el7.x86_64                                    25/29 
+  Installing : python-markupsafe-0.11-10.el7.x86_64                       26/29 
+  Installing : python-jinja2-2.7.2-2.el7.noarch                           27/29 
+  Installing : salt-2015.5.10-2.el7.noarch                                28/29 
+  Installing : salt-master-2015.5.10-2.el7.noarch                         29/29 
+  Verifying  : python-jinja2-2.7.2-2.el7.noarch                            1/29 
+  Verifying  : python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch    2/29 
+  Verifying  : python-markupsafe-0.11-10.el7.x86_64                        3/29 
+  Verifying  : systemd-python-219-42.el7_4.10.x86_64                       4/29 
+  Verifying  : python-urllib3-1.10.2-3.el7.noarch                          5/29 
+  Verifying  : zeromq3-3.2.5-1.el7.x86_64                                  6/29 
+  Verifying  : which-2.20-7.el7.x86_64                                     7/29 
+  Verifying  : pciutils-libs-3.5.1-2.el7.x86_64                            8/29 
+  Verifying  : openpgm-5.2.122-2.el7.x86_64                                9/29 
+  Verifying  : python-babel-0.9.6-8.el7.noarch                            10/29 
+  Verifying  : python-six-1.9.0-2.el7.noarch                              11/29 
+  Verifying  : pciutils-3.5.1-2.el7.x86_64                                12/29 
+  Verifying  : m2crypto-0.21.1-17.el7.x86_64                              13/29 
+  Verifying  : hwdata-0.252-8.6.el7.x86_64                                14/29 
+  Verifying  : salt-master-2015.5.10-2.el7.noarch                         15/29 
+  Verifying  : PyYAML-3.10-11.el7.x86_64                                  16/29 
+  Verifying  : libxml2-python-2.9.1-6.el7_2.3.x86_64                      17/29 
+  Verifying  : python-backports-1.0-8.el7.x86_64                          18/29 
+  Verifying  : libtommath-0.42.0-6.el7.x86_64                             19/29 
+  Verifying  : libyaml-0.1.4-11.el7_0.x86_64                              20/29 
+  Verifying  : python2-crypto-2.6.1-15.el7.x86_64                         21/29 
+  Verifying  : python-requests-2.6.0-1.el7_1.noarch                       22/29 
+  Verifying  : yum-utils-1.1.31-42.el7.noarch                             23/29 
+  Verifying  : python2-msgpack-0.5.1-1.el7.x86_64                         24/29 
+  Verifying  : python-chardet-2.2.1-1.el7_1.noarch                        25/29 
+  Verifying  : python-kitchen-1.1.1-5.el7.noarch                          26/29 
+  Verifying  : salt-2015.5.10-2.el7.noarch                                27/29 
+  Verifying  : python-zmq-14.3.1-1.el7.x86_64                             28/29 
+  Verifying  : libtomcrypt-1.17-26.el7.x86_64                             29/29 
+
+Installed:
+  salt-master.noarch 0:2015.5.10-2.el7                                          
+
+Dependency Installed:
+  PyYAML.x86_64 0:3.10-11.el7                                                   
+  hwdata.x86_64 0:0.252-8.6.el7                                                 
+  libtomcrypt.x86_64 0:1.17-26.el7                                              
+  libtommath.x86_64 0:0.42.0-6.el7                                              
+  libxml2-python.x86_64 0:2.9.1-6.el7_2.3                                       
+  libyaml.x86_64 0:0.1.4-11.el7_0                                               
+  m2crypto.x86_64 0:0.21.1-17.el7                                               
+  openpgm.x86_64 0:5.2.122-2.el7                                                
+  pciutils.x86_64 0:3.5.1-2.el7                                                 
+  pciutils-libs.x86_64 0:3.5.1-2.el7                                            
+  python-babel.noarch 0:0.9.6-8.el7                                             
+  python-backports.x86_64 0:1.0-8.el7                                           
+  python-backports-ssl_match_hostname.noarch 0:3.4.0.2-4.el7                    
+  python-chardet.noarch 0:2.2.1-1.el7_1                                         
+  python-jinja2.noarch 0:2.7.2-2.el7                                            
+  python-kitchen.noarch 0:1.1.1-5.el7                                           
+  python-markupsafe.x86_64 0:0.11-10.el7                                        
+  python-requests.noarch 0:2.6.0-1.el7_1                                        
+  python-six.noarch 0:1.9.0-2.el7                                               
+  python-urllib3.noarch 0:1.10.2-3.el7                                          
+  python-zmq.x86_64 0:14.3.1-1.el7                                              
+  python2-crypto.x86_64 0:2.6.1-15.el7                                          
+  python2-msgpack.x86_64 0:0.5.1-1.el7                                          
+  salt.noarch 0:2015.5.10-2.el7                                                 
+  systemd-python.x86_64 0:219-42.el7_4.10                                       
+  which.x86_64 0:2.20-7.el7                                                     
+  yum-utils.noarch 0:1.1.31-42.el7                                              
+  zeromq3.x86_64 0:3.2.5-1.el7                                                  
+
+Complete!
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: mirror.compevo.com
+ * epel: mirror.steadfast.net
+ * extras: mirror.cogentco.com
+ * updates: mirror.steadfast.net
+Resolving Dependencies
+--> Running transaction check
+---> Package net-tools.x86_64 0:2.0-0.22.20131004git.el7 will be installed
+---> Package vim-enhanced.x86_64 2:7.4.160-2.el7 will be installed
+--> Processing Dependency: vim-common = 2:7.4.160-2.el7 for package: 2:vim-enhanced-7.4.160-2.el7.x86_64
+--> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: 2:vim-enhanced-7.4.160-2.el7.x86_64
+--> Processing Dependency: libperl.so()(64bit) for package: 2:vim-enhanced-7.4.160-2.el7.x86_64
+--> Processing Dependency: libgpm.so.2()(64bit) for package: 2:vim-enhanced-7.4.160-2.el7.x86_64
+--> Running transaction check
+---> Package gpm-libs.x86_64 0:1.20.7-5.el7 will be installed
+---> Package perl.x86_64 4:5.16.3-292.el7 will be installed
+--> Processing Dependency: perl(Socket) >= 1.3 for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Scalar::Util) >= 1.10 for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl-macros for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(threads::shared) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(threads) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(constant) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Time::Local) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Time::HiRes) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Storable) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Socket) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Scalar::Util) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Pod::Simple::XHTML) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Pod::Simple::Search) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Getopt::Long) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Filter::Util::Call) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(File::Temp) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(File::Spec::Unix) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(File::Spec::Functions) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(File::Spec) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(File::Path) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Exporter) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Cwd) for package: 4:perl-5.16.3-292.el7.x86_64
+--> Processing Dependency: perl(Carp) for package: 4:perl-5.16.3-292.el7.x86_64
+---> Package perl-libs.x86_64 4:5.16.3-292.el7 will be installed
+---> Package vim-common.x86_64 2:7.4.160-2.el7 will be installed
+--> Processing Dependency: vim-filesystem for package: 2:vim-common-7.4.160-2.el7.x86_64
+--> Running transaction check
+---> Package perl-Carp.noarch 0:1.26-244.el7 will be installed
+---> Package perl-Exporter.noarch 0:5.68-3.el7 will be installed
+---> Package perl-File-Path.noarch 0:2.09-2.el7 will be installed
+---> Package perl-File-Temp.noarch 0:0.23.01-3.el7 will be installed
+---> Package perl-Filter.x86_64 0:1.49-3.el7 will be installed
+---> Package perl-Getopt-Long.noarch 0:2.40-2.el7 will be installed
+--> Processing Dependency: perl(Pod::Usage) >= 1.14 for package: perl-Getopt-Long-2.40-2.el7.noarch
+--> Processing Dependency: perl(Text::ParseWords) for package: perl-Getopt-Long-2.40-2.el7.noarch
+---> Package perl-PathTools.x86_64 0:3.40-5.el7 will be installed
+---> Package perl-Pod-Simple.noarch 1:3.28-4.el7 will be installed
+--> Processing Dependency: perl(Pod::Escapes) >= 1.04 for package: 1:perl-Pod-Simple-3.28-4.el7.noarch
+--> Processing Dependency: perl(Encode) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch
+---> Package perl-Scalar-List-Utils.x86_64 0:1.27-248.el7 will be installed
+---> Package perl-Socket.x86_64 0:2.010-4.el7 will be installed
+---> Package perl-Storable.x86_64 0:2.45-3.el7 will be installed
+---> Package perl-Time-HiRes.x86_64 4:1.9725-3.el7 will be installed
+---> Package perl-Time-Local.noarch 0:1.2300-2.el7 will be installed
+---> Package perl-constant.noarch 0:1.27-2.el7 will be installed
+---> Package perl-macros.x86_64 4:5.16.3-292.el7 will be installed
+---> Package perl-threads.x86_64 0:1.87-4.el7 will be installed
+---> Package perl-threads-shared.x86_64 0:1.43-6.el7 will be installed
+---> Package vim-filesystem.x86_64 2:7.4.160-2.el7 will be installed
+--> Running transaction check
+---> Package perl-Encode.x86_64 0:2.51-7.el7 will be installed
+---> Package perl-Pod-Escapes.noarch 1:1.04-292.el7 will be installed
+---> Package perl-Pod-Usage.noarch 0:1.63-3.el7 will be installed
+--> Processing Dependency: perl(Pod::Text) >= 3.15 for package: perl-Pod-Usage-1.63-3.el7.noarch
+--> Processing Dependency: perl-Pod-Perldoc for package: perl-Pod-Usage-1.63-3.el7.noarch
+---> Package perl-Text-ParseWords.noarch 0:3.29-4.el7 will be installed
+--> Running transaction check
+---> Package perl-Pod-Perldoc.noarch 0:3.20-4.el7 will be installed
+--> Processing Dependency: perl(parent) for package: perl-Pod-Perldoc-3.20-4.el7.noarch
+--> Processing Dependency: perl(HTTP::Tiny) for package: perl-Pod-Perldoc-3.20-4.el7.noarch
+--> Processing Dependency: groff-base for package: perl-Pod-Perldoc-3.20-4.el7.noarch
+---> Package perl-podlators.noarch 0:2.5.1-3.el7 will be installed
+--> Running transaction check
+---> Package groff-base.x86_64 0:1.22.2-8.el7 will be installed
+---> Package perl-HTTP-Tiny.noarch 0:0.033-3.el7 will be installed
+---> Package perl-parent.noarch 1:0.225-244.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                   Arch      Version                      Repository
+                                                                           Size
+================================================================================
+Installing:
+ net-tools                 x86_64    2.0-0.22.20131004git.el7     base    305 k
+ vim-enhanced              x86_64    2:7.4.160-2.el7              base    1.0 M
+Installing for dependencies:
+ gpm-libs                  x86_64    1.20.7-5.el7                 base     32 k
+ groff-base                x86_64    1.22.2-8.el7                 base    942 k
+ perl                      x86_64    4:5.16.3-292.el7             base    8.0 M
+ perl-Carp                 noarch    1.26-244.el7                 base     19 k
+ perl-Encode               x86_64    2.51-7.el7                   base    1.5 M
+ perl-Exporter             noarch    5.68-3.el7                   base     28 k
+ perl-File-Path            noarch    2.09-2.el7                   base     26 k
+ perl-File-Temp            noarch    0.23.01-3.el7                base     56 k
+ perl-Filter               x86_64    1.49-3.el7                   base     76 k
+ perl-Getopt-Long          noarch    2.40-2.el7                   base     56 k
+ perl-HTTP-Tiny            noarch    0.033-3.el7                  base     38 k
+ perl-PathTools            x86_64    3.40-5.el7                   base     82 k
+ perl-Pod-Escapes          noarch    1:1.04-292.el7               base     51 k
+ perl-Pod-Perldoc          noarch    3.20-4.el7                   base     87 k
+ perl-Pod-Simple           noarch    1:3.28-4.el7                 base    216 k
+ perl-Pod-Usage            noarch    1.63-3.el7                   base     27 k
+ perl-Scalar-List-Utils    x86_64    1.27-248.el7                 base     36 k
+ perl-Socket               x86_64    2.010-4.el7                  base     49 k
+ perl-Storable             x86_64    2.45-3.el7                   base     77 k
+ perl-Text-ParseWords      noarch    3.29-4.el7                   base     14 k
+ perl-Time-HiRes           x86_64    4:1.9725-3.el7               base     45 k
+ perl-Time-Local           noarch    1.2300-2.el7                 base     24 k
+ perl-constant             noarch    1.27-2.el7                   base     19 k
+ perl-libs                 x86_64    4:5.16.3-292.el7             base    688 k
+ perl-macros               x86_64    4:5.16.3-292.el7             base     43 k
+ perl-parent               noarch    1:0.225-244.el7              base     12 k
+ perl-podlators            noarch    2.5.1-3.el7                  base    112 k
+ perl-threads              x86_64    1.87-4.el7                   base     49 k
+ perl-threads-shared       x86_64    1.43-6.el7                   base     39 k
+ vim-common                x86_64    2:7.4.160-2.el7              base    5.9 M
+ vim-filesystem            x86_64    2:7.4.160-2.el7              base    9.8 k
+
+Transaction Summary
+================================================================================
+Install  2 Packages (+31 Dependent packages)
+
+Total download size: 20 M
+Installed size: 64 M
+Downloading packages:
+--------------------------------------------------------------------------------
+Total                                               13 MB/s |  20 MB  00:01     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : gpm-libs-1.20.7-5.el7.x86_64                                1/33 
+  Installing : groff-base-1.22.2-8.el7.x86_64                              2/33 
+  Installing : 1:perl-parent-0.225-244.el7.noarch                          3/33 
+  Installing : perl-HTTP-Tiny-0.033-3.el7.noarch                           4/33 
+  Installing : perl-podlators-2.5.1-3.el7.noarch                           5/33 
+  Installing : perl-Pod-Perldoc-3.20-4.el7.noarch                          6/33 
+  Installing : 1:perl-Pod-Escapes-1.04-292.el7.noarch                      7/33 
+  Installing : perl-Text-ParseWords-3.29-4.el7.noarch                      8/33 
+  Installing : perl-Encode-2.51-7.el7.x86_64                               9/33 
+  Installing : perl-Pod-Usage-1.63-3.el7.noarch                           10/33 
+  Installing : 4:perl-macros-5.16.3-292.el7.x86_64                        11/33 
+  Installing : 4:perl-libs-5.16.3-292.el7.x86_64                          12/33 
+  Installing : perl-Storable-2.45-3.el7.x86_64                            13/33 
+  Installing : perl-Exporter-5.68-3.el7.noarch                            14/33 
+  Installing : perl-constant-1.27-2.el7.noarch                            15/33 
+  Installing : perl-Time-Local-1.2300-2.el7.noarch                        16/33 
+  Installing : perl-Socket-2.010-4.el7.x86_64                             17/33 
+  Installing : perl-Carp-1.26-244.el7.noarch                              18/33 
+  Installing : perl-PathTools-3.40-5.el7.x86_64                           19/33 
+  Installing : perl-Scalar-List-Utils-1.27-248.el7.x86_64                 20/33 
+  Installing : perl-File-Temp-0.23.01-3.el7.noarch                        21/33 
+  Installing : perl-File-Path-2.09-2.el7.noarch                           22/33 
+  Installing : perl-threads-shared-1.43-6.el7.x86_64                      23/33 
+  Installing : perl-threads-1.87-4.el7.x86_64                             24/33 
+  Installing : 4:perl-Time-HiRes-1.9725-3.el7.x86_64                      25/33 
+  Installing : perl-Filter-1.49-3.el7.x86_64                              26/33 
+  Installing : 1:perl-Pod-Simple-3.28-4.el7.noarch                        27/33 
+  Installing : perl-Getopt-Long-2.40-2.el7.noarch                         28/33 
+  Installing : 4:perl-5.16.3-292.el7.x86_64                               29/33 
+  Installing : 2:vim-filesystem-7.4.160-2.el7.x86_64                      30/33 
+  Installing : 2:vim-common-7.4.160-2.el7.x86_64                          31/33 
+  Installing : 2:vim-enhanced-7.4.160-2.el7.x86_64                        32/33 
+  Installing : net-tools-2.0-0.22.20131004git.el7.x86_64                  33/33 
+  Verifying  : perl-HTTP-Tiny-0.033-3.el7.noarch                           1/33 
+  Verifying  : net-tools-2.0-0.22.20131004git.el7.x86_64                   2/33 
+  Verifying  : perl-threads-shared-1.43-6.el7.x86_64                       3/33 
+  Verifying  : perl-Storable-2.45-3.el7.x86_64                             4/33 
+  Verifying  : 2:vim-filesystem-7.4.160-2.el7.x86_64                       5/33 
+  Verifying  : perl-Exporter-5.68-3.el7.noarch                             6/33 
+  Verifying  : perl-constant-1.27-2.el7.noarch                             7/33 
+  Verifying  : perl-PathTools-3.40-5.el7.x86_64                            8/33 
+  Verifying  : 4:perl-macros-5.16.3-292.el7.x86_64                         9/33 
+  Verifying  : 1:perl-parent-0.225-244.el7.noarch                         10/33 
+  Verifying  : 4:perl-5.16.3-292.el7.x86_64                               11/33 
+  Verifying  : groff-base-1.22.2-8.el7.x86_64                             12/33 
+  Verifying  : perl-File-Temp-0.23.01-3.el7.noarch                        13/33 
+  Verifying  : 1:perl-Pod-Simple-3.28-4.el7.noarch                        14/33 
+  Verifying  : perl-Time-Local-1.2300-2.el7.noarch                        15/33 
+  Verifying  : gpm-libs-1.20.7-5.el7.x86_64                               16/33 
+  Verifying  : 4:perl-libs-5.16.3-292.el7.x86_64                          17/33 
+  Verifying  : perl-Pod-Perldoc-3.20-4.el7.noarch                         18/33 
+  Verifying  : perl-Socket-2.010-4.el7.x86_64                             19/33 
+  Verifying  : perl-Carp-1.26-244.el7.noarch                              20/33 
+  Verifying  : 2:vim-common-7.4.160-2.el7.x86_64                          21/33 
+  Verifying  : perl-Scalar-List-Utils-1.27-248.el7.x86_64                 22/33 
+  Verifying  : 1:perl-Pod-Escapes-1.04-292.el7.noarch                     23/33 
+  Verifying  : perl-Pod-Usage-1.63-3.el7.noarch                           24/33 
+  Verifying  : perl-Encode-2.51-7.el7.x86_64                              25/33 
+  Verifying  : perl-podlators-2.5.1-3.el7.noarch                          26/33 
+  Verifying  : perl-Getopt-Long-2.40-2.el7.noarch                         27/33 
+  Verifying  : 2:vim-enhanced-7.4.160-2.el7.x86_64                        28/33 
+  Verifying  : perl-File-Path-2.09-2.el7.noarch                           29/33 
+  Verifying  : perl-threads-1.87-4.el7.x86_64                             30/33 
+  Verifying  : 4:perl-Time-HiRes-1.9725-3.el7.x86_64                      31/33 
+  Verifying  : perl-Filter-1.49-3.el7.x86_64                              32/33 
+  Verifying  : perl-Text-ParseWords-3.29-4.el7.noarch                     33/33 
+
+Installed:
+  net-tools.x86_64 0:2.0-0.22.20131004git.el7                                   
+  vim-enhanced.x86_64 2:7.4.160-2.el7                                           
+
+Dependency Installed:
+  gpm-libs.x86_64 0:1.20.7-5.el7                                                
+  groff-base.x86_64 0:1.22.2-8.el7                                              
+  perl.x86_64 4:5.16.3-292.el7                                                  
+  perl-Carp.noarch 0:1.26-244.el7                                               
+  perl-Encode.x86_64 0:2.51-7.el7                                               
+  perl-Exporter.noarch 0:5.68-3.el7                                             
+  perl-File-Path.noarch 0:2.09-2.el7                                            
+  perl-File-Temp.noarch 0:0.23.01-3.el7                                         
+  perl-Filter.x86_64 0:1.49-3.el7                                               
+  perl-Getopt-Long.noarch 0:2.40-2.el7                                          
+  perl-HTTP-Tiny.noarch 0:0.033-3.el7                                           
+  perl-PathTools.x86_64 0:3.40-5.el7                                            
+  perl-Pod-Escapes.noarch 1:1.04-292.el7                                        
+  perl-Pod-Perldoc.noarch 0:3.20-4.el7                                          
+  perl-Pod-Simple.noarch 1:3.28-4.el7                                           
+  perl-Pod-Usage.noarch 0:1.63-3.el7                                            
+  perl-Scalar-List-Utils.x86_64 0:1.27-248.el7                                  
+  perl-Socket.x86_64 0:2.010-4.el7                                              
+  perl-Storable.x86_64 0:2.45-3.el7                                             
+  perl-Text-ParseWords.noarch 0:3.29-4.el7                                      
+  perl-Time-HiRes.x86_64 4:1.9725-3.el7                                         
+  perl-Time-Local.noarch 0:1.2300-2.el7                                         
+  perl-constant.noarch 0:1.27-2.el7                                             
+  perl-libs.x86_64 4:5.16.3-292.el7                                             
+  perl-macros.x86_64 4:5.16.3-292.el7                                           
+  perl-parent.noarch 1:0.225-244.el7                                            
+  perl-podlators.noarch 0:2.5.1-3.el7                                           
+  perl-threads.x86_64 0:1.87-4.el7                                              
+  perl-threads-shared.x86_64 0:1.43-6.el7                                       
+  vim-common.x86_64 2:7.4.160-2.el7                                             
+  vim-filesystem.x86_64 2:7.4.160-2.el7                                         
+
+Complete!
+The following keys are going to be accepted:
+Unaccepted Keys:
+vc1
+vc2
+vc3
+vc4
+vc5
+vclogin1
+vcnfs1
+vcSlurm1
+Key for minion vc1 accepted.
+Key for minion vc2 accepted.
+Key for minion vc3 accepted.
+Key for minion vc4 accepted.
+Key for minion vc5 accepted.
+Key for minion vcSlurm1 accepted.
+Key for minion vclogin1 accepted.
+Key for minion vcnfs1 accepted.
+Accepted Keys:
+vc1
+vc2
+vc3
+vc4
+vc5
+vclogin1
+vcnfs1
+vcSlurm1
+Denied Keys:
+Unaccepted Keys:
+Rejected Keys:

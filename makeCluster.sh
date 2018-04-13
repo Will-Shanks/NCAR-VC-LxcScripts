@@ -1,89 +1,96 @@
 #!/bin/bash
 
-LXCDIR="/var/lib/lxc/"
+LXCDIR='/var/lib/lxc/'
 SALTFILES='/root/salt/'
+FILES='/root/lxcScripts/'
+
 
 function runCommand {
-echo "********************************************************************";
-echo "lxc-attach -n $1 -- $2;";
-lxc-attach -n $1 -- $2;
-echo "********************************************************************";
+  echo "lxc-attach -n $1 -- $2";
+  sudo lxc-attach -n $1 -- $2 >> $FILES/setup.txt;
 }
 
 
 function installSalt {
-runCommand $1 'yum -y upgrade';
-runCommand $1 "yum -y install salt-$2";
-printf "systemctl enable salt-$2.service \n systemctl start salt-$2.service" >> "$LXCDIR/$1/rootfs/root/startSalt.sh"
-chmod 744 "$LXCDIR/$1/rootfs/root/startSalt.sh"
-runCommand $1 '/bin/bash /root/startSalt.sh'
-rm -f "$LXCDIR/$1/rootfs/root/startSalt.sh"
+  runCommand $1 'yum -y upgrade';
+  runCommand $1 "yum -y install salt-$2";
+
+  if [ $2 == 'master' ]; then
+    rsync -a  $FILES/master  $LXCDIR/vcsalt/rootfs/etc/salt/master
+  else
+    echo 'master: vcsalt' >> $LXCDIR/$1/rootfs/etc/salt/minion
+  fi
+
+  printf "systemctl enable salt-$2.service \n systemctl start salt-$2.service" >> "$LXCDIR/$1/rootfs/root/startSalt.sh"
+  chmod 744 "$LXCDIR/$1/rootfs/root/startSalt.sh"
+  runCommand $1 '/bin/bash /root/startSalt.sh'
+  rm -f "$LXCDIR/$1/rootfs/root/startSalt.sh"
 }
 
 function makeNode {
-lxc-create -n $1 -t centos;
-echo 'proxy=http://pkg-cache.ssg.ucar.edu:3142/' >> "$LXCDIR/$1/rootfs/etc/yum.conf"
-lxc-start -n $1 -d;
-sleep 30;
-runCommand $1 'yum -y install epel-release';
-if [ "_"$2 == "_" ]; then
+  sudo lxc-create -n $1 -t centos;
+  echo 'proxy=http://pkg-cache.ssg.ucar.edu:3142/' >> "$LXCDIR/$1/rootfs/etc/yum.conf"
+  sudo lxc-start -n $1 -d;
+  sleep 30;
+  printf "chpasswd root:password" >> "$LXCDIR/$1/rootfs/root/setpasswd.sh"
+  chmod 744 "$LXCDIR/$1/rootfs/root/setpasswd.sh"
+  runCommand $1 'bin/bash /root/setpasswd.sh'
+
+  runCommand $1 'yum -y install epel-release';
+
+  if [ "_"$2 == "_" ]; then
     installSalt "$1" 'minion';
-else
+  else
     installSalt "$1" "$2";
-fi
+    if [ $2 == 'master' ]; then
+      installSalt "$1" 'minion';
+    fi
+  fi
 }
 
 function makeSaltMaster {
-makeNode 'salt' 'master';
-runCommand 'salt' 'yum -y install net-tools vim-enhanced'
-echo 'salt master node setup';
+  echo "1 salt nodes";
+  makeNode 'vcsalt' 'master';
+  runCommand 'vcsalt' 'yum -y install net-tools vim-enhanced'
 }
 
-function makeComputeNodes {
-for i in `seq 1 $1`;
-do
-    makeNode "vc$i" &
-    echo "compute node $i of $1 setup";
-done
-wait
-}
+function makeNodeType {
+  if [ "_"$2 == "_" ]; then
+    echo "$1 compute nodes";
+  else
+    echo "$1 $2 nodes";
+  fi
 
-function makeSlurmNodes {
-for i in `seq 1 $1`;
-do
-    makeNode "vcSlurm$i" &
-    echo "Slurm node $i of $1 setup";
-done
-wait
-}
+  for i in `seq 1 $1`;
+  do
+    makeNode "vc$2$i" &
+  done
 
-function makeLoginNodes {
-for i in `seq 1 $1`;
-do
-    makeNode "vcLogin$i" &
-    echo "Login node $i of $1 setup";
-done
-wait
+  wait
 }
 
 function acceptSaltKeys {
-runCommand 'salt' 'salt-key -y --accept-all';
+  runCommand 'vcsalt' 'salt-key -y --accept-all';
 }
 
 function setupSalt {
-#copy salt stuff to salt master
-cp -r SALTFILES $LXCDIR/salt/rootfs/srv/salt/
-runCommand 'salt' "salt '*' state.apply"
+  cp -r $SALTFILES $LXCDIR/vcsalt/rootfs/srv/salt/
+#  printf "salt '*' test.ping \n salt '*' state.apply" >> "$LXCDIR/salt/rootfs/root/saltHighState.sh"
+#  chmod 744 "$LXCDIR/salt/rootfs/root/saltHighState.sh"
+#  runCommand 'salt' '/bin/bash /root/saltHighState.sh'
+#  rm -f "$LXCDIR/salt/rootfs/root/saltHighState.sh"
 }
 
+rm $FILES/setup.txt
 makeSaltMaster &
-makeComputeNodes '10' &
-makeSlurmNodes '1' &
-makeLoginNodes '2' &
+makeNodeType '5' &
+makeNodeType '1' 'slurm' &
+makeNodeType '1' 'login' &
+makeNodeType '1' 'nfs' &
 wait
+stty sane
+echo "waiting to accept salt keys";
 sleep 30;
 acceptSaltKeys;
-echo 'All nodes created';
+#sleep 30;
 setupSalt
-#runCommand 'salt' 'salt "\*" state.apply';
-#echo 'Nodes provisioned';
