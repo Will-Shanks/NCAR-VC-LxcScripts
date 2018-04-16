@@ -85,7 +85,7 @@ rm $FILES/setup.txt
 makeSaltMaster &
 makeNodeType '5' &
 makeNodeType '1' 'slurm' &
-makeNodeType '1' 'login' &
+makeNodeType '2' 'login' &
 makeNodeType '1' 'nfs' &
 wait
 stty sane

@@ -41,10 +41,10 @@ echo "all containers deleted";
 
 function vc-backup {
 vc-stop
-
+echo "Backing up all containers in $LXCDIR to $CLUSTER_BACKUP"
 rsync -a --del $LXCDIR $CLUSTER_BACKUP
 
-echo "all containers backed up to $CLUSTER_BACKUP";
+echo "all containers backed up to $CLUSTER_BACKUP"
 }
 
 function vc-clean {
