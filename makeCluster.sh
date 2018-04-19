@@ -1,15 +1,7 @@
-#!/bin/bash
-
-LXCDIR='/var/lib/lxc/'
-SALTFILES='/root/salt/'
-FILES='/root/lxcScripts/'
-
-
 function runCommand {
   echo "lxc-attach -n $1 -- $2";
-  sudo lxc-attach -n $1 -- $2 >> $FILES/setup.txt;
+  sudo lxc-attach -n $1 -- $2;
 }
-
 
 function installSalt {
   runCommand $1 'yum -y upgrade';
@@ -32,10 +24,10 @@ function makeNode {
   echo 'proxy=http://pkg-cache.ssg.ucar.edu:3142/' >> "$LXCDIR/$1/rootfs/etc/yum.conf"
   sudo lxc-start -n $1 -d;
   sleep 30;
-  printf "chpasswd root:password" >> "$LXCDIR/$1/rootfs/root/setpasswd.sh"
+  printf "chpasswd root:superSecretPassword" >> "$LXCDIR/$1/rootfs/root/setpasswd.sh"
   chmod 744 "$LXCDIR/$1/rootfs/root/setpasswd.sh"
   runCommand $1 'bin/bash /root/setpasswd.sh'
-
+  rm -f "/$LXCDIR/$1/rootfs/root/setpasswd.sh"
   runCommand $1 'yum -y install epel-release';
 
   if [ "_"$2 == "_" ]; then
@@ -81,7 +73,7 @@ function setupSalt {
 #  rm -f "$LXCDIR/salt/rootfs/root/saltHighState.sh"
 }
 
-rm $FILES/setup.txt
+function makeCluster {
 makeSaltMaster &
 makeNodeType '5' &
 makeNodeType '1' 'slurm' &
@@ -90,7 +82,9 @@ makeNodeType '1' 'nfs' &
 wait
 stty sane
 echo "waiting to accept salt keys";
-sleep 30;
-acceptSaltKeys;
+#sleep 60;
+#acceptSaltKeys;
 #sleep 30;
 setupSalt
+echo "don't forget to accept salt keys!"
+}
