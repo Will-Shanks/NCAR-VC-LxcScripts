@@ -48,6 +48,8 @@ vc-stop
 
 rsync -a --del "$CLUSTER_BACKUP" "$LXCDIR"
 
+vc-delVeth
+
 vc-start
 }
 
@@ -90,4 +92,10 @@ fi
 makeNode $1
 sleep 30
 acceptSaltKeys
+}
+
+function vc-delVeth {
+for i in `ip a | grep veth | cut -b 5-16`; do
+  ip link delete $i;
+done
 }
